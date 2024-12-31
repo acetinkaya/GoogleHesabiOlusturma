@@ -46,5 +46,6 @@ Bu bölüm, bir Google hesabı oluşturma sürecini adım adım açıklamak içi
 
 # İşlem - 11
 
+![alternatif metin](https://github.com/acetinkaya/GoogleHesabiOlusturma/blob/main/Google-10.png)
 
 
