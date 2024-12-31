@@ -55,3 +55,8 @@ Bu bölüm, bir Google hesabı oluşturma sürecini adım adım açıklamak içi
 # İşlem - 13
 
 ![alternatif metin](https://github.com/acetinkaya/GoogleHesabiOlusturma/blob/main/Google-12.png)
+
+# Bir sonraki dersimizde görüşmek üzere. 
+
+# Öğr. Gör. Ali ÇETİNKAYA
+# 01.01.2025
